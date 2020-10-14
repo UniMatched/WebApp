@@ -8,7 +8,7 @@ function App() {
       <h1 className="title">UniMatched!</h1>
     </header>
     <p className="UniMatched landing page">
-      Welcome to the landing page of UniMatched
+      Welcome to the landing page of UniMatched. Let's make a modification
     </p>
   </div>
   );
