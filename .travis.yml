@@ -3,7 +3,7 @@ node_js:
   - "stable"
 cache:
   directories:
-    - ./react-app/node_modules
+    - node_modules
 script:
   - cd react-app
   - npm test
