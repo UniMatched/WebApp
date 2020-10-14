@@ -12,6 +12,6 @@ deploy:
   provider: surge
   skip_cleanup: true
   domain: unimatched.surge.sh
-  project: ./build/
+  project: ./react-app/build/
 on:
   branch: master
