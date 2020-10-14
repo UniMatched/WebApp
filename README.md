@@ -1,5 +1,7 @@
 # UniMatched - WebApp
 
+![Logo](https://github.com/UniMatched/WebApp/blob/master/public/logo.png?raw=true)
+
 Built using React (and in all seriousness, the README needs major work)
 
 ## Build status
